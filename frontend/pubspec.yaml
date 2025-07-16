@@ -1,0 +1,80 @@
+name: taxi_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  fl_country_code_picker: ^0.1.9+1
+  flutter_otp_text_field: ^1.1.1
+  otp_timer_button: ^1.1.0
+  #flutter_osm_plugin:
+  #  path: packages/flutter_osm_plugin
+
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  permission_handler: ^10.4.4  # أو أحدث نسخة
+
+  flutter_timer_countdown: ^1.0.7
+  flutter_rating_bar: ^4.0.1
+  fl_chart: ^0.63.0
+  
+  firebase_core: 2.24.2
+  firebase_auth: 4.16.0
+  firebase_messaging: ^14.7.4
+ 
+  onesignal_flutter: ^3.5.0
+
+  flutter_easyloading: ^3.0.5
+  shared_preferences: ^2.2.2
+  intl: ^0.18.1
+  cached_network_image: ^3.3.0
+  flutter_timezone: ^1.0.8
+  http: 1.1.0
+  bloc: ^8.1.2
+  flutter_bloc: ^8.1.3
+  equatable: ^2.0.5
+  image_picker: ^1.0.5
+  flutter_slidable: ^3.0.1
+  socket_io_client: ^2.0.3+1
+  bubble: ^1.2.1
+  timeago: ^3.6.0
+  sqflite: ^2.3.2
+  maps_toolkit: ^3.0.0
+  geolocator: ^10.1.0
+  path_provider: ^2.1.2
+  geocoding: ^2.1.0
+  
+
+dependency_overrides:
+  http: 1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/
+
+  fonts:
+    - family: NunitoSans
+      fonts:
+        - asset: assets/font/NunitoSans-Regular.ttf
+        - asset: assets/font/NunitoSans-Medium.ttf
+          weight: 500
+        - asset: assets/font/NunitoSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/font/NunitoSans-Bold.ttf
+          weight: 700
+        - asset: assets/font/NunitoSans-ExtraBold.ttf
+          weight: 800

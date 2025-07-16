@@ -1,0 +1,9 @@
+Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 22
+    at PromisePool.query (G:\flutter\taxi_driver_node-main\node_modules\mysql2\lib\promise\pool.js:36:22)
+    at Object.query (G:\flutter\taxi_driver_node-main\helpers\db_helpers.js:26:21)
+    at G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1283:12
+    at Object.findNearByLocation (G:\flutter\taxi_driver_node-main\helpers\helpers.js:154:16)
+    at driverNewRequestSend (G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1280:12)
+    at G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:221:13
+    at G:\flutter\taxi_driver_node-main\helpers\db_helpers.js:28:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

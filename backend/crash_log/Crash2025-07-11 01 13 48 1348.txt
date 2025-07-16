@@ -1,0 +1,4 @@
+TypeError: callback is not a function
+    at G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1621:16
+    at G:\flutter\taxi_driver_node-main\helpers\db_helpers.js:28:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

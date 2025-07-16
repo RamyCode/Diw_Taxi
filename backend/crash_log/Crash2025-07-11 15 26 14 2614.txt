@@ -1,0 +1,5 @@
+TypeError: helper.insertBookingEventLog is not a function
+    at tryNextDriver (G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1381:16)
+    at G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1336:17
+    at G:\flutter\taxi_driver_node-main\helpers\db_helpers.js:28:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

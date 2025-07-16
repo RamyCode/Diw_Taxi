@@ -1,0 +1,1 @@
+Error: ENOENT: no such file or directory, rename 'C:\Users\msi\AppData\Local\Temp\vRY5G5M-WnHLyhxcfFBvxL_s.jpg' -> 'G:\flutter\taxi_driver_node-main\public\img\car\202507010523452345NchpguoVgg.jpg'

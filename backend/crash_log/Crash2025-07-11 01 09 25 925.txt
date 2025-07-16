@@ -1,0 +1,9 @@
+Error: Unknown column 'bd.payment_type' in 'field list'
+    at PromisePool.query (G:\flutter\taxi_driver_node-main\node_modules\mysql2\lib\promise\pool.js:36:22)
+    at Object.query (G:\flutter\taxi_driver_node-main\helpers\db_helpers.js:26:21)
+    at G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1111:16
+    at Object.CheckParameterValid (G:\flutter\taxi_driver_node-main\helpers\helpers.js:71:20)
+    at G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1102:16
+    at G:\flutter\taxi_driver_node-main\controllers\booking_controller.js:1506:28
+    at G:\flutter\taxi_driver_node-main\helpers\db_helpers.js:28:24
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

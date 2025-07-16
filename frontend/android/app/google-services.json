@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "93250385527",
+    "project_id": "taxiappramy",
+    "storage_bucket": "taxiappramy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93250385527:android:f697352e8327c43b65f872",
+        "android_client_info": {
+          "package_name": "com.ramy.taxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93250385527-ilvgse1e91nqf04d27svfr5dlunhsk71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramy.taxiapp",
+            "certificate_hash": "4f9da24e013fd6dc8c9fcb5cb4f55290678e7334"
+          }
+        },
+        {
+          "client_id": "93250385527-oui6liqr299j0v9es52lj9tg4cf1cf04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoJMpabKgwpXxkg7yweq6JEF4HbLasSIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93250385527-oui6liqr299j0v9es52lj9tg4cf1cf04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
