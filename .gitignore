@@ -1,0 +1,43 @@
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+pubspec.lock
+.idea/
+.vscode/
+*.iml
+
+# Android Studio / IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Env files
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# MacOS
+.DS_Store
+
+# Others
+*.swp
+*.swo
